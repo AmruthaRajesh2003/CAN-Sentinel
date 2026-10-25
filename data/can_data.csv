@@ -1,0 +1,6 @@
+timestamp,can_id,data
+0.01,0x100,01 02 03 04
+0.02,0x200,10 20 30 40
+0.03,0x666,FF FF FF FF
+0.04,0x666,FF FF FF FF
+0.05,0x666,FF FF FF FF
